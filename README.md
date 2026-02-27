@@ -17,7 +17,7 @@
 ## 🌐 Live Demo
 
 🔗 **Try the Live App Here:**  
-👉 https://ai-resume-job-matcher-bihgwa4yvhtzh7cpt4ttxp.streamlit.app/
+👉 h
 
 ---
 
@@ -67,17 +67,6 @@ AI-Resume-Job-Matcher/
 └── utils/
 ```
 
----
-
-## 🛠 Installation (Run Locally)
-
-### 1️⃣ Clone Repository
-
-```bash
-git clone https://github.com/your-username/AI-Resume-Job-Matcher.git
-cd AI-Resume-Job-Matcher
-```
-
 ### 2️⃣ Install Dependencies
 
 ```bash
@@ -120,7 +109,7 @@ The output is displayed as a percentage match.
 This application is deployed using **Streamlit Cloud**.
 
 🔗 Live App:  
-https://ai-resume-job-matcher-bihgwa4yvhtzh7cpt4ttxp.streamlit.app/
+h
 
 ---
 
