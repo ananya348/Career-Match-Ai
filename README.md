@@ -17,7 +17,7 @@
 ## 🌐 Live Demo
 
 🔗 **Try the Live App Here:**  
-👉 h
+👉 https://career-match-ai-agc7yzhf6nnnggj9r8z6sf.streamlit.app/
 
 ---
 
@@ -109,7 +109,7 @@ The output is displayed as a percentage match.
 This application is deployed using **Streamlit Cloud**.
 
 🔗 Live App:  
-h
+https://career-match-ai-agc7yzhf6nnnggj9r8z6sf.streamlit.app/
 
 ---
 
